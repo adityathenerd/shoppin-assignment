@@ -1,7 +1,7 @@
 # Fashion Reverse Image Search: Shoppin’ (Google Lens Alternative)
 
 ## Overview
-This README provides a detailed description of the data preparation steps, variable usage, and processing logic found in the accompanying Jupyter Notebook. The primary focus of this script is to train and fine-tune models, process data for analysis, and create features for image similarity search.
+This README provides a detailed description of the data preparation steps, variable usage, and processing logic found in the accompanying Jupyter Notebooks. The primary focus of this script is to train and fine-tune models, process data for analysis, and create features for image similarity search.
 
 ### Major Processes:
 1. **Loading Model Checkpoints**: Scripts to load pre-trained models.
